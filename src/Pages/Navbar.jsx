@@ -51,9 +51,9 @@ function Navbar() {
 
           {open && (
             <ul className="neo-dropdown">
-              <li onClick={() => navigate("/service/design")}>Design</li>
-              <li onClick={() => navigate("/service/development")}>Development</li>
-              <li onClick={() => navigate("/service/marketing")}>Marketing</li>
+              <li onClick={() => navigate("/servicedesign")}>Design</li>
+              <li onClick={() => navigate("/servicedevelopment")}>Development</li>
+              <li onClick={() => navigate("/servicemarketing")}>Marketing</li>
             </ul>
           )}
         </li>
