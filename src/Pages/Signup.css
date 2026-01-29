@@ -45,6 +45,7 @@
 
 .signup-box input:focus {
   background: #00f0ff;
+  color: #000;
 }
 
 /* BUTTON */

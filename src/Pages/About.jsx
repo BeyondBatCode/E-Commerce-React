@@ -33,10 +33,10 @@ function About() {
           {/* RIGHT */}
           <div className="col-lg-6">
             <div className="about-stats">
-              <div className="stat-card">🚀<br />5+ Years Experience</div>
-              <div className="stat-card">🌍<br />20+ Countries</div>
-              <div className="stat-card">🛍️<br />50K+ Orders</div>
-              <div className="stat-card">⭐<br />Trusted by Brands</div>
+              <div className="stat-card">🚀 5+ Years Experience</div>
+              <div className="stat-card">🌍 20+ Countries</div>
+              <div className="stat-card">🛍️ 50K+ Orders</div>
+              <div className="stat-card">⭐ Trusted by Brands</div>
             </div>
           </div>
 
