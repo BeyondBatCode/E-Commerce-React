@@ -49,6 +49,11 @@
   box-shadow: 2px 2px 0 #000;
 }
 
+.about-btn:active {
+  transform: translate(4px, 4px);
+  box-shadow: 0 0 0 #000;
+}
+
 /* STATS GRID */
 .about-stats {
   display: grid;
@@ -70,6 +75,11 @@
 .stat-card:hover {
   transform: translate(3px, 3px);
   box-shadow: 3px 3px 0 #000;
+}
+
+.stat-card:active {
+  transform: translate(6px, 6px);
+  box-shadow: 0 0 0 #000;
 }
 
 /* ENTRY ANIMATION */

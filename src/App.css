@@ -65,6 +65,13 @@
   box-shadow: 2px 2px 0 #000;
 }
 
+.hero-btn-primary:active,
+.hero-btn-secondary:active {
+    transform: translate(4px, 4px);
+  box-shadow: 0 0 0 #000;
+}
+
+
 /* STATS */
 .hero-stat {
   background: #ffffff;
